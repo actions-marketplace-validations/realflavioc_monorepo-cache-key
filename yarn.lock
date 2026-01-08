@@ -763,10 +763,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-standard-monorepo@0.6.1:
-  version "0.6.1"
-  resolved "https://registry.yarnpkg.com/standard-monorepo/-/standard-monorepo-0.6.1.tgz#c4a956d997da9d2bcc0a0cd8f89cc9d96003350a"
-  integrity sha512-sDUkLUabEKl2e4qYRX9aQGFOAdWMRD8DP7iT/z+t9dERw1JOeVj7BMWmluwRA49cvHByJerDeStXoVagRfTxpg==
+standard-monorepo@0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/standard-monorepo/-/standard-monorepo-0.9.0.tgz#de3b350d8cc9c512d5fa9724ac4a3d4bde3d01c9"
+  integrity sha512-KS6d/axylXQ3lvr7tMSiphCxSKdI9AWFzE8+FbTJL1h73si944qu9BR/kxvXpZPxl80dg/pXtzzdizvCSXIR/g==
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"
